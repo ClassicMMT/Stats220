@@ -6,4 +6,4 @@ I created this repository to store and share the projects from my STATS220 class
 
 
 ## Link
-WEBSITE
+https://classicmmt.github.io/Stats220/
