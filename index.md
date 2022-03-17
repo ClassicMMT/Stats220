@@ -33,7 +33,7 @@ To be honest, I am not about any meme styles. When creating this meme, I had an 
 
 
 ## The code used for creating my meme:
-```{r setup, include = FALSE}json
+```{r setup, include = FALSE}
 install.packages("magick")
 library(magick)
 
@@ -47,18 +47,22 @@ my_size <- 1000
 presidents <- image_read("https://github.com/ClassicMMT/Stats220/blob/main/newzealandexempt.jpg?raw=true") %>%
   image_crop("1967x1000+0+125") %>%
   image_scale(my_size)
+
 new_zealand <- image_read("https://gdb.voanews.com/AE0DD2BB-831D-4B6F-9F0D-5C1B4B2284E4_w1023_r1_s.jpg") %>%
   image_crop("575x575+350") %>%
   image_scale(my_size / 2) %>%
   image_blur(1,1) #just making it look more like the presidents image.
+
 canada <- image_read("https://www.ft.com/__origami/service/image/v2/images/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2F2e807d3e-eccc-4762-add1-de6bfb460c2c.jpg?fit=scale-down&source=next&width=700") %>%
   image_crop("394x394+150") %>%
   image_scale(my_size / 2) %>%
   image_blur(1,1)
+
 united_states <- image_read("https://content.fortune.com/wp-content/uploads/2021/01/State-Trump-Protests-2021-01-06T201807Z_1550641537_MT1USATODAY15402712_RTRMADP_3_JAN-6-2021-SPRINGFIELD-IL-USA-TONYA-POWERS-LEFT-ALONG.jpg?resize=1500,1000") %>%
   image_crop("1000x1000+250") %>%
   image_scale(my_size / 2) %>%
   image_blur(1,1)
+
 australia <- image_read("https://images.theconversation.com/files/433057/original/file-20211122-17-1y8mb83.jpg?ixlib=rb-1.1.0&q=45&auto=format&w=1200&h=1200.0&fit=crop") %>%
   image_scale(my_size / 2) %>%
   image_blur(1,1)
@@ -94,4 +98,5 @@ meme <- image_append(meme_vector, stack = T)
 
 #saving the meme
 image_write(meme, path = "my_meme.png", format = "png")
+
 ```
