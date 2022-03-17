@@ -2,20 +2,26 @@
 
 ## My motivation
 I created this meme because I think it is quite relevant to the world as we know it today. The world:
-- is full of problems
-- has a bigger social divide than at any time during the last half century
-- has politicians that are increasingly oblivious to the needs of their constituents
-- is full of lies, disinformation and propoganda
-- is ruled by profit and reelection goals, rather than with a focus on improving the lives of the Earth's inhabitants.
+1. is full of problems
+2. has a bigger social divide than at any time during the last half century
+3. has politicians that are increasingly oblivious to the needs of their constituents
+4. is full of lies, disinformation and propoganda
+5. is ruled by profit and re-election priorities, rather than with a focus on improving the lives of the Earth's inhabitants.
 
 This meme represents the frustrations a lot of people have. From my conversations with people, nobody goes to a protest unless they are desperate for change, yet the protestors are not only being ignored but *they are being scorned, mislabelled, and physically dispersed*. This has happened in [Canada](https://fortune.com/2022/02/21/canada-ottawa-freedom-convoy-protest-ends-truckers-arrest-covid-vaccine-mandate/) and now **even here** in our beautiful country of [New Zealand](https://www.aljazeera.com/news/2022/2/10/move-on-new-zealand-police-break-up-wellington-trucker-protest). 
 
 Whatever your views on any recent social problem, protesting is a human right in free countries and we must all be aware that our freedoms are being taken from us day by day and hour by hour. As the famous economist Milton Friedman once said:
 
-> "There is nothing more permanent than a temoporary government program."
+> "_There is nothing more permanent than a temoporary government program._" - Milton Friedman, American Economist and Nobel Laureate
+
 
 Please think about the life you're living now and whether this is the life you want your children and their children to live. Thank you.
 
+### Milton Friedman
+![Milton Friedman](https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Portrait_of_Milton_Friedman.jpg/800px-Portrait_of_Milton_Friedman.jpg)
+
+## How the meme is original
+To be honest, I am not about any meme styles. When creating this meme, I had an idea in my head for how I wanted it to come out and that's what I made.
 
 ## The meme itself:
 ![](my_meme.png) 
