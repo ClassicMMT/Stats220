@@ -18,13 +18,18 @@ Whatever your views on any recent social problem, protesting is a human right in
 Please think about the life you're living now and whether this is the life you want your children and their children to live. Thank you.
 
 ### Milton Friedman
-![Milton Friedman](https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Portrait_of_Milton_Friedman.jpg/800px-Portrait_of_Milton_Friedman.jpg)
+<p align="center">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Portrait_of_Milton_Friedman.jpg/800px-Portrait_of_Milton_Friedman.jpg" width=500 />
+</p>
+
 
 ## How the meme is original
 To be honest, I am not about any meme styles. When creating this meme, I had an idea in my head for how I wanted it to come out and that's what I made.
 
 ## The meme itself:
-![](my_meme.png) 
+<p align="center">
+  <img src=my_meme.png width=500 />
+</p>
 
 
 ## The code used for creating my meme:
