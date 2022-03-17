@@ -15,3 +15,5 @@ STATS220 is a course where we learn various **data technologies** including:
 
 ### Website link
 The link to my Stats220 **website** can be found [here](https://classicmmt.github.io/Stats220/).
+
+![Enjoy!](https://image.shutterstock.com/image-vector/enjoy-brush-calligraphy-banner-260nw-1342361666.jpg)
