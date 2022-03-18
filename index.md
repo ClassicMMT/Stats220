@@ -28,7 +28,7 @@ To be honest, I am not about any meme styles. When creating this meme, I had an 
 
 ## The meme itself:
 <p align="center">
-  <img src=my_meme.png width=500 />
+  <img src="my_meme.png" width=500 />
 </p>
 
 
