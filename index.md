@@ -33,7 +33,7 @@ To be honest, I am not about any meme styles. When creating this meme, I had an 
 
 
 ## The code used for creating my meme:
-```{r setup, include = FALSE}
+```r
 install.packages("magick")
 library(magick)
 
