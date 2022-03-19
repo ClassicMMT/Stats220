@@ -8,9 +8,11 @@ STATS220 is a course where we learn various **data technologies** including:
 * R and RStudio
   * `magick` package [*(link)*](https://cran.r-project.org/web/packages/magick/vignettes/intro.html)
   * `tidyverse` package [*(link)*](https://www.tidyverse.org/)
-* Markdown and Markup (including ....)
+* Markdown and Markup
 * Github
 * HTML
+* CSS
+* YAML
 * and more!
 
 ### Website link
