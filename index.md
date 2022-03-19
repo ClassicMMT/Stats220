@@ -4,11 +4,11 @@
 I created this meme because I think it is quite relevant to the world as we know it today. The world:
 1. is full of problems
 2. has a bigger social divide than at any time during the last half century
-3. has politicians that are increasingly oblivious to the needs of their constituents
+3. has politicians that seem increasingly oblivious to the needs of their constituents
 4. is full of lies, disinformation and propoganda
 5. is ruled by profit and re-election priorities, rather than with a focus on improving the lives of the Earth's inhabitants.
 
-This meme represents the frustrations a lot of people have. From my conversations with people, nobody goes to a protest unless they are desperate for change, yet the protestors are not only being ignored but *they are being scorned, mislabelled, and physically dispersed*. This has happened in [Canada](https://fortune.com/2022/02/21/canada-ottawa-freedom-convoy-protest-ends-truckers-arrest-covid-vaccine-mandate/) and now **even here** in our beautiful country of [New Zealand](https://www.aljazeera.com/news/2022/2/10/move-on-new-zealand-police-break-up-wellington-trucker-protest). 
+This meme represents the frustrations a lot of people have. From my conversations with others, nobody goes to a protest unless they are desperate for change, yet the protestors are not only being ignored but *they are being scorned, mislabelled, and physically dispersed*. Many decide not to protest for fear of public opinion, leaving the public's true opinions unknown. For someone to put their livelihood on the line to stand up for something they truly believe in, and then be ridiculed by media and policians,is the new reality. And thats not a good thing. This has happened in [Canada](https://fortune.com/2022/02/21/canada-ottawa-freedom-convoy-protest-ends-truckers-arrest-covid-vaccine-mandate/) and now **even here** in our beautiful country of [New Zealand](https://www.aljazeera.com/news/2022/2/10/move-on-new-zealand-police-break-up-wellington-trucker-protest). 
 
 Whatever your views on any recent social problem, protesting is a human right in free countries and we must all be aware that our freedoms are being taken from us day by day and hour by hour. As the famous economist Milton Friedman once said:
 
